@@ -1,24 +1,24 @@
-# "Ecos de Aventura"
+# "As Aventuras de Sakura"
 
-## Descrição do Jogo
-Em **Ecos de Aventura**, você se torna um herói em um mundo repleto de mistérios e perigos. Sua jornada começa em uma vila esquecida, onde rumores de criaturas sombrias e tesouros perdidos permeiam o ar. Com uma espada na mão e coragem no coração, você enfrentará desafios inesperados em cada rodada, testando sua força, inteligência e resiliência.
+## Descrição
+Em "As Aventuras de Sakura", você entra no mundo de Sakura Kinomoto, uma jovem que acidentalmente libera as poderosas Cartas Clow. Sua missão é ajudar Sakura a capturar essas cartas mágicas e restaurar a ordem. Com seu bastão mágico e a ajuda de seus amigos, ela enfrenta criaturas místicas e armadilhas em sua jornada para selar as cartas.
 
-Cada desafio traz consigo um eco do passado, uma chance de aprender e evoluir. Você lutará contra goblins traiçoeiros, descobrirá poções mágicas em baús antigos e evitará armadilhas astutas. A cada vitória, sua reputação cresce e os recursos acumulados serão a chave para sua sobrevivência.
+Durante cada rodada, você enfrentará desafios, resolverá enigmas e, com sorte, encontrará tesouros ou até mesmo uma Carta Clow. Armadilhas místicas podem prejudicar sua missão, mas poções mágicas ou a força de seus amigos podem te salvar.
 
-Conseguirá você desvendar os segredos deste mundo antes que as sombras o consumam? Prepare-se para uma aventura épica em **Ecos de Aventura**, onde cada decisão molda seu destino!
+Será que você conseguirá capturar todas as cartas antes que o caos se espalhe? Prepare-se para uma aventura mágica com Sakura em busca das Cartas Clow!
 
 ## Autoras
 - Aline Moreira Araújo
 - Mirella Dias Oliveira
 
 ## Regras
-1. O jogador começa com 100 de vida, 10 de força e 50 de recurso.
-2. A cada rodada, o jogador enfrentará um desafio que pode causar dano ou conceder recursos.
+1. Sakura começa com 100 de vida (energia mágica), 10 de força mágica, e 50 moedas mágicas (poder/energia).
+2. A cada rodada, o jogador enfrentará um desafio que pode causar dano ou conceder recursos para Sakura.
 3. O jogo termina se o jogador ficar sem vida ou completar as cinco rodadas.
 
 ## Como Jogar
 1. Abra o console do seu navegador (F12 ou Ctrl+Shift+I).
-2. Cole o código acima no console.
+2. Cole o código abaixo no console.
 3. Execute `start()` para iniciar o jogo.
 4. Siga as instruções no console para ver seu progresso e desafios.
 
